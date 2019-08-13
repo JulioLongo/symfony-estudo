@@ -1,3 +1,3 @@
 # Symfony
 
-Curso aluda symfony
+Curso alura symfony
